@@ -4,4 +4,5 @@ if hungary == "yes":
     print("can you give pizza")
 else:
     print("im not")
+    print('go and study')
     
